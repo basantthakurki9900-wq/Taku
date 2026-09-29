@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Keyboard Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M26,38h56c3.3,0 6,2.7 6,6v30c0,3.3 -2.7,6 -6,6H26c-3.3,0 -6,-2.7 -6,-6V44c0,-3.3 2.7,-6 6,-6z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M26,40h56c2.2,0 4,1.8 4,4v26c0,2.2 -1.8,4 -4,4H26c-2.2,0 -4,-1.8 -4,-4V44c0,-2.2 1.8,-4 4,-4z" />
+    
+    <!-- Keyboard Keycaps -->
+    <!-- Row 1 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M27,45h8v6h-8zM39,45h8v6h-8zM51,45h8v6h-8zM63,45h8v6h-8zM75,45h6v6h-6z" />
+    <!-- Row 2 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M27,54h10v6h-10zM41,54h8v6h-8zM53,54h8v6h-8zM65,54h8v6h-8zM77,54h4v6h-4z" />
+    <!-- Row 3 - Spacebar -->
+    <path android:fillColor="#FFFFFF" android:pathData="M37,63h34v5h-34z" />
+
+    <!-- Big Sparkling Gold Coin Overlay -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M78,32m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,32m-11,0a11,11 0 1,0 22,0a11,11 0 1,0 -22,0" />
+    <!-- Dollar / Coin Star / Reward Symbol -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M78,25l1.6,4.6h4.8l-3.9,2.8l1.5,4.6l-4,-2.9l-4,2.9l1.5,-4.6l-3.9,-2.8h4.8z" />
+
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M27,27l1.5,3.5l3.5,1.5l-3.5,1.5l-1.5,3.5l-1.5,-3.5l-3.5,-1.5l3.5,-1.5z" />
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M93,55l1,2.5l2.5,1l-2.5,1l-1,2.5l-1,-2.5l-2.5,-1l2.5,-1z" />
+</vector>

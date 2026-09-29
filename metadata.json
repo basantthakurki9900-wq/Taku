@@ -1,0 +1,6 @@
+{
+  "name": "Typing Rewards",
+  "description": "Practice typing to earn coins, unlock daily rewards, watch sponsored ads, and redeem rewards with UPI, Gift Cards, and Play Codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

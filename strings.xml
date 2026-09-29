@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Typing Rewards</string>
+    <string name="typing_challenge_title">Typing Challenge</string>
+    <string name="daily_reward_title">Daily Reward</string>
+    <string name="watch_ad_title">Watch Sponsored Ad</string>
+    <string name="redeem_withdrawal_title">Redeem &amp; Withdraw</string>
+</resources>
